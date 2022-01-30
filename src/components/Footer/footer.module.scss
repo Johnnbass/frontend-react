@@ -1,0 +1,12 @@
+@import "../../variables.scss";
+
+.footer {
+  background-color: black;
+  display: fixed;
+  bottom: 0;
+  width: 100%;
+  min-height: 2.5em;
+  small {
+    color: white;
+  }
+}

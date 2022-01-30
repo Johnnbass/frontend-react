@@ -1,0 +1,9 @@
+@import '../../variables.scss';
+
+header {
+  background-color: black;
+  min-height: 4em;
+  position: fixed;
+  width: 100%;
+  z-index: 99;
+}
